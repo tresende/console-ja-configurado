@@ -1,4 +1,4 @@
-﻿namespace ConsoleBootstap.Services.Interfaces
+﻿namespace ConsoleBootstrap.Services.Interfaces
 {
     public interface IPedidoService
     {

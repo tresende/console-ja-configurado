@@ -1,12 +1,12 @@
-﻿using ConsoleBootstap.Services.Classes;
-using ConsoleBootstap.Services.Interfaces;
+﻿using ConsoleBootstrap.Services.Classes;
+using ConsoleBootstrap.Services.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
 using System.IO;
 
-namespace ConsoleBootstap
+namespace ConsoleBootstrap
 {
     class Program
     {

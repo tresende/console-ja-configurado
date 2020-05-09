@@ -1,7 +1,7 @@
-﻿using ConsoleBootstap.Services.Interfaces;
+﻿using ConsoleBootstrap.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 
-namespace ConsoleBootstap.Services.Classes
+namespace ConsoleBootstrap.Services.Classes
 {
     public class ItemService : IItemService
     {
